@@ -2,7 +2,7 @@
 title: 'Gamification'
 description: ''
 pubDate: 'Jul 19 2022'
-heroImage: 'Root-Write/blog-placeholder-4.jpg'
+heroImage: '/Root-Write/blog-placeholder-4.jpg'
 ---
 
 # Gamification

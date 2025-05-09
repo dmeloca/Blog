@@ -2,7 +2,7 @@
 title: 'Optimism'
 description: ''
 pubDate: 'Jul 20 2024'
-heroImage: 'Root-Write/blog-placeholder-2.jpg'
+heroImage: '/Root-Write/blog-placeholder-2.jpg'
 ---
 
 _Disclaimer_: Before you start reading this please refer to the steph Ango blog

@@ -2,7 +2,7 @@
 title: 'Cs Degree Vision'
 description: ''
 pubDate: 'Jun 27 2024'
-heroImage: 'Root-Write/blog-placeholder-3.jpg'
+heroImage: '/Root-Write/blog-placeholder-3.jpg'
 ---
 
 # My vision about the CS degree
