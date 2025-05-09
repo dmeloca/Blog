@@ -6,7 +6,6 @@ import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 import starlight from "@astrojs/starlight";
 
-// https://astro.build/config
 export default defineConfig({
 	site: 'https://dmeloca.github.io',
 	base: 'Root-Write',

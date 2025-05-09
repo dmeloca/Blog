@@ -3,6 +3,8 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import { LinkCard } from '@astrojs/starlight/components';
+import { CardGrid } from '@astrojs/starlight/components';
 ---
 
 <!DOCTYPE html>
@@ -13,8 +15,29 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
   <body>
     <Header />
     <main class="container">
-      <h2>{SITE_TITLE}</h2>
-      <p>This site is intended for hosting some texts about investigations, opinions and writeups.</p>
+      <div class="container">
+        <h3>Hello</h3>
+        <p> <b>Welcome to my blog project!</b> In this space, I share my thoughts, research, and personal projects. You're welcome to read through everything and ask any questions you might have. </p>
+      </div>
+      <div>
+        <h3>Projects</h3>
+        <p>For now, I'll be sharing some of the most relevant projects I've been working on recently — at least the ones that matter most to me. Take a look and feel free to share any thoughts or suggestions!</p>
+        <CardGrid>
+          <LinkCard
+            title="Meltdown"
+            href="https://github.com/dmeloca/Meltdown"
+            target="_blank"
+            description="This is the code for the lab portion of the Honeypots talk — a simple honeypot written in Go for educational purposes."
+          />
+          <LinkCard
+            title="PSO-Implementation"
+            href="https://github.com/dmeloca/PSO-Implementation"
+            target="_blank"
+            description="This code was developed as the final project for the Object-Oriented Programming (OOP) course, implementing a basic Particle Swarm Optimization (PSO) algorithm."
+          />
+          </CardGrid>
+          <p>If you're curious to see more, feel free to visit my GitHub page, where I host additional interesting repositories. And if you'd like to learn more about my professional background, check out my LinkedIn profile.</p>
+      </div>
     </main>
     <Footer />
   </body>
