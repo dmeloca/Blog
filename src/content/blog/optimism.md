@@ -9,7 +9,6 @@ _Disclaimer_: Before you start reading this please refer to the steph Ango blog
 post [Optimism](https://stephango.com/optimism)
 
 
-# Optimism
 ## Personal experience
 Before sharing my opinion on optimism, I want to start by discussing my personal experience with this topic. Recently, while reflecting on the changes in my life, I noticed that my recent thoughts were much more pessimistic compared to those I had when I was younger. Inspired by Ango's post, I wanted to identify what had changed in my context. For example, I found that although I had finished school, my plans didn't come to fruition. During that time, I felt very unmotivated and wished for the school years to end quickly. Since then, I have adjusted the timelines for my plans and started considering more backup plans.
 

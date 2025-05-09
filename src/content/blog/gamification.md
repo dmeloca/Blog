@@ -5,7 +5,6 @@ pubDate: 'Jul 19 2022'
 heroImage: '/Root-Write/blog-placeholder-4.jpg'
 ---
 
-# Gamification
 One day surfing in google, I found a personal/proffesional blog made by [Austin Z. Henley](https://austinhenley.com/blog/gamification.html) and i decide to read more about the posts, his achievements and proffesional career; the first impression was about the style a really minimal but beautiful web page, later the published posts took my attention but there was an entry that talk about the life gamification so i decide to read it, this post is about my experience with the post topic
 ## Introduction
 

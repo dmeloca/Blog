@@ -5,7 +5,6 @@ pubDate: 'Jun 27 2024'
 heroImage: '/Root-Write/blog-placeholder-3.jpg'
 ---
 
-# My vision about the CS degree
 ## Introduction:
 I want to start by explaining how I decided to pursue this career. When I finished school, I noticed that I was interested in computational topics such as cybersecurity, data science, and development. For this reason, I decided to search for careers that would teach me about these topics. At this point, the reader might wonder why I didn't choose to study systems engineering. The answer is that during my last years in school, I began to discover the power of mathematics. I wanted a career where I could develop both interests. During that time, I was advised to look into the Computer Science (CS) program at the National University. I discovered that the focus of this program was the mathematics behind computation, and I realized it was the career I had been searching for.
 
