@@ -5,17 +5,18 @@ import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 ---
 
-<!doctype html>
-<html lang="en">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-	</head>
-	<body>
-		<Header />
-		<main>
-		<h1>Root & Write</h1>
-		</main>
-		<Footer />
-	</body>
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+  </head>
+  <body>
+    <Header />
+    <main class="container">
+      <h2>{SITE_TITLE}</h2>
+      <p>This site is intended for hosting some texts about investigations, opinions and writeups.</p>
+    </main>
+    <Footer />
+  </body>
 </html>
 
